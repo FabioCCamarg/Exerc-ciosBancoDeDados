@@ -1,0 +1,18 @@
+CREATE TABLE produto (
+	nome                VARCHAR (50),
+  	preco               DECIMAL (9,2),
+  	quantidade_estoque 	INT
+);
+
+INSERT INTO produto (nome, preco, quantidade_estoque)
+VALUES ('Tenis', 450.50, 15);
+
+CREATE TABLE marca (
+	nome           VARCHAR (30),
+  	preco          DECIMAL (9,2),
+  	nacionalidade  VARCHAR (20)
+);
+
+INSERT INTO marca (nome, preco, nacionalidade)
+VALUES ('nike', 5000.00, 'Estados Unidos');
+
