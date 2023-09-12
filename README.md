@@ -3,13 +3,15 @@
 Atividades corespondentes as atividades realizadas em sala de aula. 
 ## Topico 1 (DER):
 1 -Um petshop deseja manter cadastrados seus clientes bem como seus pets.
-Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espécie e data de nascimento de seu pet. A figura abaixo demonstra as entidades das devidas entidades e atributos.
+Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espécie e data de nascimento de seu pet. A figura abaixo demonstra as entidades atributos e relacionamento entre as entidades.
 
 ![exer1](https://raw.githubusercontent.com/FabioCCamarg/Exerc-ciosBancoDeDados/main/Exerc%C3%ADcioPetShop/Captura%20de%20tela%202023-09-12%20084348.png)
 
 2 -Em uma produtora de games, há desenvolvedores, que possuem um nome, CPF, data de nascimento.
-Cada projeto tem um nome, data de lançamento, gênero e faixa etária. Segundo o gerente de projetos, “cada desenvolvedor deve estar envolvido em um projeto”. A figura abaixo apresenta as entidades e os atributos.
-#Topico 2 (MER e Cardinalidade):
+Cada projeto tem um nome, data de lançamento, gênero e faixa etária. Segundo o gerente de projetos, “cada desenvolvedor deve estar envolvido em um projeto”. A figura abaixo demonstra as entidades atributos e relacionamento entre as entidades.
+
+##Topico 2 (MER e Cardinalidade):
+
 SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES APRESENTADOS, ALÉM DA IDENTIFICAÇÃO DOS ELEMENTOS DO DER).
 
 1- Uma biblioteca efetua registro de autores e livros. Um autor é cadastrado com seu nome, e-mail, nacionalidade e data de nascimento. Já um livro é registrado com o título, quantidade de páginas, acabamento e editora. A figura abaixo demonstra as entidades, realcionamento, tributos e as Cardinaidades.
