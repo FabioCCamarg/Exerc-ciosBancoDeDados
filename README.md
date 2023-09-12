@@ -63,3 +63,4 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 ## Tópico 4:
 Dentro das pastas de exercícios, se encontram os arquivos .txt, referentes a exercícios deste Tópico.
+![](https://github.com/FabioCCamarg/Exerc-ciosBancoDeDados/blob/main/Exerc%C3%ADcioDiretorFilmeElenco/Exerc%C3%ADcioDiretorFilmeElenco.txt)
