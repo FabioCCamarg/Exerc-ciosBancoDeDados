@@ -10,7 +10,7 @@ Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espéc
 2 -Em uma produtora de games, há desenvolvedores, que possuem um nome, CPF, data de nascimento.
 Cada projeto tem um nome, data de lançamento, gênero e faixa etária. Segundo o gerente de projetos, “cada desenvolvedor deve estar envolvido em um projeto”. A figura abaixo demonstra as entidades atributos e relacionamento entre as entidades.
 
-## Topico 2 (MER e Cardinalidade):
+(MER e Cardinalidade):
 
 SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES APRESENTADOS, ALÉM DA IDENTIFICAÇÃO DOS ELEMENTOS DO DER).
 
@@ -29,7 +29,8 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 ![exe4](https://raw.githubusercontent.com/FabioCCamarg/Exerc-ciosBancoDeDados/main/Exerc%C3%ADcioDiretorFilmeElenco/Captura%20de%20tela%202023-09-05%20102845.png)
 
-##Tópico 3: 
+## Topico 2 :
+Conforme o material apresentado sobre atributos, refaça os MER criados para os exercícios acima, adaptando com os devidos atributos explicados durante a aula;
 
 
 
