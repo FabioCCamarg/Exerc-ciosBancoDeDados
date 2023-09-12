@@ -63,4 +63,24 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 ## Tópico 3 e 4:
 Dentro das pastas de exercícios, se encontram os arquivos .txt, referentes a exercícios deste Tópico.
+PetShop
+https://github.com/FabioCCamarg/Exerc-ciosBancoDeDados/blob/main/Exerc%C3%ADcioPetShop/Exerc%C3%ADcioPetshop.txt
+
+Produtora de Games
+https://github.com/FabioCCamarg/Exerc-ciosBancoDeDados/blob/main/Exerc%C3%ADcioProdutora/Exerc%C3%ADcio_Produtora.txt
+
+Biblioteca
+https://github.com/FabioCCamarg/Exerc-ciosBancoDeDados/blob/main/Exer%C3%ADcioAutor_Livro/Exer%C3%ADcioAutor_Livro.txt
+
+Locadora 
+https://github.com/FabioCCamarg/Exerc-ciosBancoDeDados/blob/main/Exerc%C3%ADcioMotadoraAutomovel/Exerc%C3%ADcioMotadoraAutomovel.txt
+
+Supermercado
+https://github.com/FabioCCamarg/Exerc-ciosBancoDeDados/blob/main/Exerc%C3%ADcioPordutoMarca/Exerc%C3%ADcioProdutoMarca.txt
+
+videoteca
+https://github.com/FabioCCamarg/Exerc-ciosBancoDeDados/blob/main/Exerc%C3%ADcioDiretorFilmeElenco/Exerc%C3%ADcioDiretorFilmeElenco.txt
+
+
+
 
