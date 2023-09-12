@@ -61,3 +61,5 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 ![](https://raw.githubusercontent.com/FabioCCamarg/Exerc-ciosBancoDeDados/main/Exerc%C3%ADcioDiretorFilmeElenco/Captura%20de%20tela%202023-09-12%20101101.png)
 
+## Tópico 4:
+Dentro das pastas de exercícios, se encontram os arquivos .txt, referentes a exercícios deste Tópico.
