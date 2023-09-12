@@ -49,7 +49,9 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 ![exe1](https://raw.githubusercontent.com/FabioCCamarg/Exerc-ciosBancoDeDados/main/Exer%C3%ADcioAutor_Livro/Captura%20de%20tela%202023-09-12%20094418.png)
 
+2- Uma locadora de automóveis, mantém registro dos automóveis. Um automóvel é cadastrado com placa, modelo, ano, nome da montadora, site da montadora, logotipo da montadora. A figura abaixo demonstra as entidades, realcionamento, tributos e as Cardinaidades.
 
+![exe2](https://raw.githubusercontent.com/FabioCCamarg/Exerc-ciosBancoDeDados/main/Exerc%C3%ADcioMotadoraAutomovel/Captura%20de%20tela%202023-09-12%20095305.png)
 
 
 
