@@ -31,6 +31,14 @@ SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES 
 
 ## Topico 2 :
 Conforme o material apresentado sobre atributos, refaça os MER criados para os exercícios acima, adaptando com os devidos atributos explicados durante a aula;
+1 -Um petshop deseja manter cadastrados seus clientes bem como seus pets.
+Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espécie e data de nascimento de seu pet.
+
+![exe1](https://raw.githubusercontent.com/FabioCCamarg/Exerc-ciosBancoDeDados/main/Exerc%C3%ADcioPetShop/Captura%20de%20tela%202023-09-12%20091129.png)
+
+2 -Em uma produtora de games, há desenvolvedores, que possuem um nome, CPF, data de nascimento.
+Cada projeto tem um nome, data de lançamento, gênero e faixa etária. Segundo o gerente de projetos, “cada desenvolvedor deve estar envolvido em um projeto”. A figura abaixo demonstra as entidades atributos e relacionamento entre as entidades.
+
 
 
 
