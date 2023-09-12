@@ -43,6 +43,13 @@ Cada projeto tem um nome, data de lançamento, gênero e faixa etária. Segundo 
 
 ![exe2](https://raw.githubusercontent.com/FabioCCamarg/Exerc-ciosBancoDeDados/main/Exerc%C3%ADcioProdutora/Captura%20de%20tela%202023-09-12%20093118.png)
 
+SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES APRESENTADOS, ALÉM DA IDENTIFICAÇÃO DOS ELEMENTOS DO DER).
+
+1- Uma biblioteca efetua registro de autores e livros. Um autor é cadastrado com seu nome, e-mail, nacionalidade e data de nascimento. Já um livro é registrado com o título, quantidade de páginas, acabamento e editora. A figura abaixo demonstra as entidades, realcionamento, tributos e as Cardinaidades.
+
+![exe1](https://raw.githubusercontent.com/FabioCCamarg/Exerc-ciosBancoDeDados/main/Exer%C3%ADcioAutor_Livro/Captura%20de%20tela%202023-09-12%20094418.png)
+
+
 
 
 
