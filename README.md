@@ -10,7 +10,7 @@ Um cliente deve informar seu nome, CPF, e-mail e telefone, além do nome, espéc
 2 -Em uma produtora de games, há desenvolvedores, que possuem um nome, CPF, data de nascimento.
 Cada projeto tem um nome, data de lançamento, gênero e faixa etária. Segundo o gerente de projetos, “cada desenvolvedor deve estar envolvido em um projeto”. A figura abaixo demonstra as entidades atributos e relacionamento entre as entidades.
 
-##Topico 2 (MER e Cardinalidade):
+## Topico 2 (MER e Cardinalidade):
 
 SLIDE 19 (NESTE EXERCÍCIO SERÁ OBSERVADO A CARDINALIDADE ENTRE OS COMPONENTES APRESENTADOS, ALÉM DA IDENTIFICAÇÃO DOS ELEMENTOS DO DER).
 
